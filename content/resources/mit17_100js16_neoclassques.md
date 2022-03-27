@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Reading Questions
 parent_type: CourseSection
+parent_uid: 386547f1-2e5a-7c4a-af79-3748b52935f5
 resourcetype: Document
 title: Questions for Readings on Neo-Classical Economics
 uid: 41733f95-4aab-7489-b3fa-39f742703694

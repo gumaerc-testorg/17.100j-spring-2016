@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Reading Questions
 parent_type: CourseSection
+parent_uid: 386547f1-2e5a-7c4a-af79-3748b52935f5
 resourcetype: Document
 title: 'An exercise to guide reading on Marx '
 uid: 2dc66fb6-225b-ee60-fb2e-42255f068f1a

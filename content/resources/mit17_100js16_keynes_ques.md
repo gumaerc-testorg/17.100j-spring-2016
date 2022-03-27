@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Reading Questions
 parent_type: CourseSection
+parent_uid: 386547f1-2e5a-7c4a-af79-3748b52935f5
 resourcetype: Document
 title: Questions to guide reading on Keynes
 uid: 51473c7a-c430-8ceb-0548-cb45d1ae9b83

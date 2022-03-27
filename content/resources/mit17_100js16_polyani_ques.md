@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Reading Questions
 parent_type: CourseSection
+parent_uid: 386547f1-2e5a-7c4a-af79-3748b52935f5
 resourcetype: Document
 title: 'Questions to Consider When  Reading Polanyi '
 uid: ef9db620-9bf9-fd8f-978e-618d46a3f299
