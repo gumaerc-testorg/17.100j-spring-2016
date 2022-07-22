@@ -4,6 +4,7 @@ description: A list of questions to consider while reading Marx and the 18th Bru
 file: /courses/17-100j-political-economy-i-spring-2016/8e5410f94dda349230cea6c6287cec96_MIT17_100JS16_Marx_Brum.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Reading Questions
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: 'Questions for Marxist Politics readings and Short Guide to the 18th Brum
 uid: 8e5410f9-4dda-3492-30ce-a6c6287cec96
 ---
 A list of questions to consider while reading Marx and the 18th Brumaire.
-
