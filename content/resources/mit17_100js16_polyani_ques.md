@@ -2,6 +2,7 @@
 content_type: resource
 description: A list of questions to consider while reading Polyani.
 file: /courses/17-100j-political-economy-i-spring-2016/ef9db6209bf9fd8f978e618d46a3f299_MIT17_100JS16_Polyani_Ques.pdf
+file_size: 132947
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
