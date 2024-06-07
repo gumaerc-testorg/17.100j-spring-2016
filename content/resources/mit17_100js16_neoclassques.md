@@ -2,6 +2,7 @@
 content_type: resource
 description: A list of questions to consider while reading about neo-classical economics.
 file: /courses/17-100j-political-economy-i-spring-2016/41733f954aab7489b3fa39f742703694_MIT17_100JS16_NeoclassQues.pdf
+file_size: 121700
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
