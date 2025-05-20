@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A list of questions to consider while reading Marx and the 18th Brumaire.
-file: /ol-ocw-studio-app/courses/17-100j-political-economy-i-spring-2016/8e5410f94dda349230cea6c6287cec96_MIT17_100JS16_Marx_Brum.pdf
+file: /courses/17-100j-political-economy-i-spring-2016/8e5410f94dda349230cea6c6287cec96_MIT17_100JS16_Marx_Brum.pdf
 file_size: 615329
 file_type: application/pdf
 learning_resource_types: []
