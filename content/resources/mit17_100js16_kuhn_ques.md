@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A list of questions to consider while reading Kuhn.
-file: /ol-ocw-studio-app/courses/17-100j-political-economy-i-spring-2016/0fe19e1f3c92d7ecbbbf164a31644602_MIT17_100JS16_Kuhn_Ques.pdf
+file: /courses/17-100j-political-economy-i-spring-2016/0fe19e1f3c92d7ecbbbf164a31644602_MIT17_100JS16_Kuhn_Ques.pdf
 file_size: 203135
 file_type: application/pdf
 learning_resource_types: []
