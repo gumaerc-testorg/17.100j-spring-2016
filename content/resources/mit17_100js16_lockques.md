@@ -2,7 +2,7 @@
 content_type: resource
 description: 'A list of questions to consider while reading Hayek, Locke, Madison
   and Olson. '
-file: /courses/17-100j-political-economy-i-spring-2016/495f7f322a7c81162964e95a1bd0e07b_MIT17_100JS16_LockQues.pdf
+file: /ol-ocw-studio-app/courses/17-100j-political-economy-i-spring-2016/495f7f322a7c81162964e95a1bd0e07b_MIT17_100JS16_LockQues.pdf
 file_size: 122434
 file_type: application/pdf
 learning_resource_types: []

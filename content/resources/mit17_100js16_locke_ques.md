@@ -2,7 +2,7 @@
 content_type: resource
 description: A list of questions to consider while reading John Locke's philosophical
   views about politics.
-file: /courses/17-100j-political-economy-i-spring-2016/c8af14b254ecd7e5aa81fc36ce56ce0a_MIT17_100JS16_Locke_Ques.pdf
+file: /ol-ocw-studio-app/courses/17-100j-political-economy-i-spring-2016/c8af14b254ecd7e5aa81fc36ce56ce0a_MIT17_100JS16_Locke_Ques.pdf
 file_size: 115103
 file_type: application/pdf
 learning_resource_types: []
