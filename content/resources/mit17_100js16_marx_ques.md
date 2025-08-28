@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A list of questions to consider while reading Marx' The Manifesto.
-file: /courses/17-100j-political-economy-i-spring-2016/2dc66fb6225bee60fb2e42255f068f1a_MIT17_100JS16_Marx_Ques.pdf
+file: /ol-ocw-studio-app/courses/17-100j-political-economy-i-spring-2016/2dc66fb6225bee60fb2e42255f068f1a_MIT17_100JS16_Marx_Ques.pdf
 file_size: 300691
 file_type: application/pdf
 learning_resource_types: []

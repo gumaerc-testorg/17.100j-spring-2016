@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A list of questions to consider while reading Keynes.
-file: /courses/17-100j-political-economy-i-spring-2016/51473c7ac4308ceb0548cb45d1ae9b83_MIT17_100JS16_Keynes_Ques.pdf
+file: /ol-ocw-studio-app/courses/17-100j-political-economy-i-spring-2016/51473c7ac4308ceb0548cb45d1ae9b83_MIT17_100JS16_Keynes_Ques.pdf
 file_size: 97805
 file_type: application/pdf
 learning_resource_types: []
