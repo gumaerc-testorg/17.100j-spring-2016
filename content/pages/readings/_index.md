@@ -30,11 +30,11 @@ Locke, John. Chapters 1–5 and 7–9 in *Second Treatise on Civil Government.* 
 
 Berlin, Isaiah. "Two Concepts of Liberty." In *Four Essays on Liberty*. Oxford University Press, 1990. ISBN: 9780192810342.
 
-Madison, James. [Federalist Paper 10](https://www.congress.gov/resources/display/content/The+Federalist+Papers#TheFederalistPapers-10). Friday, November 23, 1787. 
+Madison, James. {{% resource_link "0ef44271-5071-4bf6-8eed-344a46daefd2" "Federalist Paper 10" %}}. Friday, November 23, 1787. 
 
 ### Recommended
 
-Condorcet, and Keith Michael Baker. "[Sketch for a Historical Picture of the Progress of the Human Mind: Tenth Epoch](https://www.jstor.org/stable/20027931)." *Daedalus* 133, no. 3 (2004): 65–82.
+Condorcet, and Keith Michael Baker. "{{% resource_link "97b4b1c5-e51a-4af7-ac2d-86dd53296821" "Sketch for a Historical Picture of the Progress of the Human Mind: Tenth Epoch" %}}." *Daedalus* 133, no. 3 (2004): 65–82.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
@@ -42,13 +42,13 @@ Condorcet, and Keith Michael Baker. "[Sketch for a Historical Picture of the Pro
 Neo-Classical Theories of the Economy
 {{< tdclose >}}{{< tdopen >}}
 
-Friedman, Milton. *Capitalism and Freedom.* University of Chicago Press, 2002, pp. 1–55, 108–37, and 161–90. ISBN: 9780226264219. \[Preview with [Google Books](http://books.google.com/books?id=iCRk066ybDAC&pg=PAfrontcover)\]
+Friedman, Milton. *Capitalism and Freedom.* University of Chicago Press, 2002, pp. 1–55, 108–37, and 161–90. ISBN: 9780226264219. \[Preview with {{% resource_link "48f72d35-3410-4a15-8914-751aeb292488" "Google Books" %}}\]
 
 Becker, Gary. Chapters 1, 8, 12, and 13 in *The Economic Approach to Human Behavior.* University of Chicago Press, 1990.
 
 ### Recommended
 
-Dobb, Maurice. *Theories of Value and Distribution Since Adam Smith: Ideology and Economic Theory.* Cambridge University Press, 1975. ISBN: 9780521099363. \[Preview on [Google Books](http://books.google.com/books?id=ZPW5jAQZGXYC&pg=PAfrontcover)\]
+Dobb, Maurice. *Theories of Value and Distribution Since Adam Smith: Ideology and Economic Theory.* Cambridge University Press, 1975. ISBN: 9780521099363. \[Preview on {{% resource_link "b6c77843-d6ba-450b-b3d0-96e94590e981" "Google Books" %}}\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
@@ -62,7 +62,7 @@ Hayek, Frederich. Chapters 1, 2, 4, and 5 in *Individualism and Economic Order*.
 
 ### Recommended
 
-Harsanyi, John. "[Rational-Choice Models of Political Behavior vs. Functionalist and Conformist Theories](http://www.jstor.org/pss/2009665)." *World Politics* 21, no. 4 (1969): 513–37.
+Harsanyi, John. "{{% resource_link "9abb543e-0cbb-4f96-89be-619ac27357f2" "Rational-Choice Models of Political Behavior vs. Functionalist and Conformist Theories" %}}." *World Politics* 21, no. 4 (1969): 513–37.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
@@ -72,7 +72,7 @@ The Keynesian Revolution
 
 Keynes, John Maynard. "The Great Slump of 1930," "Economy," and "The End of Laissez-Faire." In *Essays in Persuasion*. CreateSpace Independent Publishing Platform, 2009. ISBN: 9781441492265.
 
-———. [*The General Theory of Employment, Interest, and Money*](https://www.marxists.org/reference/subject/economics/keynes/general-theory/index.htm). Harcourt, Brace, and World, 1965. ISBN: 9780156347112.
+———. {{% resource_link "c9530e96-3d9d-4092-a064-e32555888b04" "*The General Theory of Employment, Interest, and Money*" %}}. Harcourt, Brace, and World, 1965. ISBN: 9780156347112.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
@@ -80,11 +80,11 @@ Keynes, John Maynard. "The Great Slump of 1930," "Economy," and "The End of Lais
 Marxist Politics
 {{< tdclose >}}{{< tdopen >}}
 
-Marx, Karl, and Friedrich Engels. "[The Manifesto of the Communist Party](https://www.marxists.org/archive/marx/works/1848/communist-manifesto/index.htm)." In *The Marx-Engels Reader*. Edited by Robert C. Tucker. W.W. Norton, 1978, pp. 469–500. ISBN: 9780393090406.
+Marx, Karl, and Friedrich Engels. "{{% resource_link "d200ded4-db1b-484f-8f9c-dec8731f5c45" "The Manifesto of the Communist Party" %}}." In *The Marx-Engels Reader*. Edited by Robert C. Tucker. W.W. Norton, 1978, pp. 469–500. ISBN: 9780393090406.
 
-———. [Preface to a Contribution to the Critique of Political Economy](http://www.marxists.org/archive/marx/works/1859/critique-pol-economy/preface.htm). In *The Marx-Engels Reader*. Edited by Robert C. Tucker. W.W. Norton, 1978, pp. 3–6. ISBN: 9780393090406.
+———. {{% resource_link "1e07dfe9-9285-42d1-b336-edb8321494d3" "Preface to a Contribution to the Critique of Political Economy" %}}. In *The Marx-Engels Reader*. Edited by Robert C. Tucker. W.W. Norton, 1978, pp. 3–6. ISBN: 9780393090406.
 
-Marx, Karl. [*The Eighteenth Brumaire of Louis Napoleon*](http://www.marxists.org/archive/marx/works/1852/18th-brumaire/ch01.htm). Translated by D. D. L. CreateSpaceIndependent Publishing Platform, 2013. ISBN: 9781461072270. (Read in entirety, NOT in Tucker version).
+Marx, Karl. {{% resource_link "d9db4fd1-351b-4f29-94bd-ca73a220d4d3" "*The Eighteenth Brumaire of Louis Napoleon*" %}}. Translated by D. D. L. CreateSpaceIndependent Publishing Platform, 2013. ISBN: 9781461072270. (Read in entirety, NOT in Tucker version).
 
 ### Recommended
 
@@ -96,9 +96,9 @@ Gramsci, Antonio. *Selections From the Prison Notebooks*. Edited by Quintin Hoar
 Marxist Economics and Value Theory
 {{< tdclose >}}{{< tdopen >}}
 
-Marx, Karl, and Friedrich Engels. "[Capital](http://www.marxists.org/archive/marx/works/1867-c1/)." In *The Marx-Engels Reader.* Edited by Robert C. Tucker. Norton, 1978, pp. 294–465. ISBN: 9780393090406.
+Marx, Karl, and Friedrich Engels. "{{% resource_link "b4b79bcc-401e-4f6c-a4dc-762f8a64c673" "Capital" %}}." In *The Marx-Engels Reader.* Edited by Robert C. Tucker. Norton, 1978, pp. 294–465. ISBN: 9780393090406.
 
-Howard, M. C., and J. E. King. *The Political Economy of Marx*. New York University Press, 1988, pp. 1–180. ISBN: 9780814734537. \[Preview with [Google Books](http://books.google.com/books?id=VjkTCgAAQBAJ&pg=PAfrontcover)\]
+Howard, M. C., and J. E. King. *The Political Economy of Marx*. New York University Press, 1988, pp. 1–180. ISBN: 9780814734537. \[Preview with {{% resource_link "1c1edf54-0484-49d7-a7c9-e7e80f7d0ba6" "Google Books" %}}\]
 
 Rubin, I. I. Introduction and chapters 1, 8, and 18 in *Essays on Marx's Theory of Value*. Black Rose Books, 1973. ISBN: 9780919618183.
 
@@ -107,7 +107,7 @@ Rubin, I. I. Introduction and chapters 1, 8, and 18 in *Essays on Marx's Theory 
 {{< tdclose >}}{{< tdopen >}}
 Sociological Theories of Capitalism (I)
 {{< tdclose >}}{{< tdopen >}}
-Weber, Max. Introduction and chapters 1, 2, 4, and 5 in [*The Protestant Ethic and the Spirit of Capitalism*](http://xroads.virginia.edu/~HYPER/WEBER/cover.html). Oxford University Press, 2010. ISBN: 9780199747252.
+Weber, Max. Introduction and chapters 1, 2, 4, and 5 in {{% resource_link "f691b17b-0a39-401d-8b99-79448f7858c1" "*The Protestant Ethic and the Spirit of Capitalism*" %}}. Oxford University Press, 2010. ISBN: 9780199747252.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
 {{< tdclose >}}{{< tdopen >}}
@@ -130,17 +130,17 @@ Review relevant passages from Marx's *Communist Manifesto and Capital*. Review K
 
 Schumpeter, Joseph. *Capitalism, Socialism and Democracy*. Harper Perennial Modern Classics, 2008, pp. 81–163. ISBN: 9780061561610.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262633673) MacKenzie, Donald. Chapters 1 and 9 in *An Engine Not a Camera: How Financial Models Shape Markets*. MIT Press, 2008. ISBN: 9780262633673. \[Preview with [Google Books](http://books.google.com/books?id=M3x5tvAwzrQC&pg=PA1=onepage)\]
+{{% resource_link "9f344921-1bab-4ab1-a0be-d5a28b5cd6a8" "![Buy at MIT Press](/images/mp_logo.gif)" %}} MacKenzie, Donald. Chapters 1 and 9 in *An Engine Not a Camera: How Financial Models Shape Markets*. MIT Press, 2008. ISBN: 9780262633673. \[Preview with {{% resource_link "c415b9fe-67b6-4905-be9f-d723c7b5fed6" "Google Books" %}}\]
 
 Akerlof, George A., and Robert J. Shiller. Preface and chapters 1–4, 6, and 7 in *Animal Spirits: How Human Psychology Drives the Economy, and Why It Matters for Global Capitalism*. Princeton University Press, 2010. ISBN: 9780691145921.
 
-Bernanke, Ben. "[Reflections on a Year in Crisis](https://www.federalreserve.gov/newsevents/speech/bernanke20090821a.htm)." Chairman of the Federal Reserve Bank. Jackson Hole Speech. August 21, 2009.
+Bernanke, Ben. "{{% resource_link "aa6671d4-3bdc-47da-9ede-dd52224346bc" "Reflections on a Year in Crisis" %}}." Chairman of the Federal Reserve Bank. Jackson Hole Speech. August 21, 2009.
 
 Rajan, Raghuram. "Let Them Eat Credit." In *Fault Lines: How Hidden Fractures Still Threaten the World Economy*. Princeton University Press, 2011. ISBN: 9780691152639.
 
 ### Recommended
 
-Lo, Andrew W. "[Reading About the Financial Crisis: A Twenty-One Book Review](https://dx.doi.org/10.1257/jel.50.1.151)." *Journal of Economic Literature* 50, no. 1 (2012): 151–78.
+Lo, Andrew W. "{{% resource_link "09fa1a41-e84d-4f3c-9185-fd598f73a76d" "Reading About the Financial Crisis: A Twenty-One Book Review" %}}." *Journal of Economic Literature* 50, no. 1 (2012): 151–78.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
@@ -148,7 +148,7 @@ Lo, Andrew W. "[Reading About the Financial Crisis: A Twenty-One Book Review](ht
 Institutionalism
 {{< tdclose >}}{{< tdopen >}}
 
-North, Douglas. *Institutions, Institutional Change and Economic Performance*. Cambridge University Press, 1990. ISBN: 9780521397346. \[Preview with [Google Books](http://books.google.com/books?id=oFnWbTqgNPYC&printsec=frontcover#v=onepage&q&f=false)\]
+North, Douglas. *Institutions, Institutional Change and Economic Performance*. Cambridge University Press, 1990. ISBN: 9780521397346. \[Preview with {{% resource_link "43687abe-9b81-46bf-9125-9cb045833dc5" "Google Books" %}}\]
 
 Hall, Peter, and David Soskice. *Varieties of Capitalism: The Institutional Foundations of Comparative Advantage*. Oxford University Press, 2001, pp. 1–68. ISBN: 9780199247752.
 
